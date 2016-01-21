@@ -1,2 +1,2 @@
 # Forest-LCA-test
-Folder with all the data of the questionnaire
+This folder contains all the data of the questionnaire bla bla bla, I will write more, bla bla bla 
