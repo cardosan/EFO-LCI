@@ -2,8 +2,7 @@
 
 ## About
 
-The European Life Cycle Inventory of Forestry Operations (ELCIFO) contains life cycle inventory (LCI) data on the forest management practices of 29 countries within the European subcontinent based on a questionnaire filled by silvicultural experts.
-We first classified European forest on the basis of what we called "forest unit" (the combination of silvicultural practices and tree species) and, for each Forest Unit (FU) we constructed a LCI.
+The European Life Cycle Inventory of Forestry Operations (ELCIFO) contains life cycle inventory (LCI) data on the forest management practices of 29 countries within the European subcontinent based on a questionnaire filled by silvicultural experts. We first classified European forest on the basis of what we called "forest unit" (the combination of silvicultural practices and tree species) and, for each Forest Unit (FU) we constructed a LCI.
 
 ### Methodology
 
@@ -27,12 +26,14 @@ Both the data in ELCIFO and the underling MS access questionnaire used to build 
 
 ### Database organization
 
-The database simply consists of two excel files, one named ....and containg the info about the single forest unit in the country, and one named .....with the detailed description of the interventions
+The database simply consists of two excel files, one named [general_information](database/general_information.xls) and containg the info about the single forest unit in the country, and one named [interventions](database/interventions.xls) with the detailed description of the interventions.
 
- 
+
 ### Download questionnaire and database
 
-The database has been contructed as a simple excel file containing as ID the combination of Country name, silvicultural system and species group (see article about this classification) while the questionnaire is an excel file with 5 front-end forms linked to as many relational databases.
+The database has been contructed as a simple excel file containing as UUID the combination of Country name, silvicultural system and species group (see article about this classification), while the questionnaire is an excel file with 5 front-end forms linked to as many relational databases.
+
+The database can be downloaded from [here](database) while the questionnaire can be downloaded from [here](questionnaire)
 
 ## Contributing data to the ELCIFO
 
@@ -42,7 +43,7 @@ The prerequisite is that you are willing to release the data under the [Attribut
 
 If you would like to contribute to this dataset, simply:
 
-1. Download the raw data from here
+1. Download the raw data from [here](database)
 2. Indicate Country and Foresty Unit you want to describe (or just update the existing ones) in the files....
 3. Include all the information at your disposal for that forest unit in the files...
 4. Please always indicate the source of information you used
