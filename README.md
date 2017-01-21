@@ -1,8 +1,8 @@
-# ELCIFO: European Life Cycle Inventory of Forestry Operations
+# EFO-LCI: European Life Cycle Inventory of Forestry Operations
 
 ## About
 
-The European Life Cycle Inventory of Forestry Operations (ELCIFO) contains life cycle inventory (LCI) data on the forest management practices of 29 countries within the European subcontinent based on a questionnaire filled by silvicultural experts. We first classified European forest on the basis of what we called "forest unit" (the combination of silvicultural practices and tree species) and, for each Forest Unit (FU) we constructed a LCI.
+The European Life Cycle Inventory of Forestry Operations (EFO-LCI) contains life cycle inventory (LCI) data on the forest management practices of 29 countries within the European subcontinent based on a questionnaire filled by silvicultural experts. We first classified European forest on the basis of what we called "forest unit" (the combination of silvicultural practices and tree species) and, for each Forest Unit (FU) we constructed a LCI.
 
 ### Methodology
 
@@ -14,15 +14,15 @@ While the work was done mainly for life cycle analysis purposes, its scope it is
 
 ### Geographical coverage of the data
 
-At time of publication, the LCIFE contained 235 FUs described in 29 different European countries. The work for now cover only the European continents, being this the scope of the project, but could be further extended to other geographical areas.
+At time of publication, the EFO-LCI contained 235 FUs described in 29 different European countries. The work for now cover only the European continents, being this the scope of the project, but could be further extended to other geographical areas.
 
 ## HOW TO CITE
 
 ......
 
-## Using ELCIFO
+## Using EFO-LCI
 
-Both the data in ELCIFO and the underling MS access questionnaire used to build it are released under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, and can therefore be shared, reused and modified for non commercial use simply giving credits to the authors. To recognise and give credits for this work , we thus simply kindly ask you cite the above article.
+Both the data in EFO-LCI and the underling MS access questionnaire used to build it are released under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, and can therefore be shared, reused and modified for non commercial use simply giving credits to the authors. To recognise and give credits for this work , we thus simply kindly ask you cite the above article.
 
 ### Database organization
 
@@ -35,9 +35,9 @@ The database has been contructed as a simple excel file containing as UUID the c
 
 The database can be downloaded from [here](database) while the questionnaire can be downloaded from [here](questionnaire)
 
-## Contributing data to the ELCIFO
+## Contributing data to the EFO-LCI
 
-We welcome further contributions to the ELCIFO, both from EU and outisde.
+We welcome further contributions to the EFO-LCI, both from EU and outisde.
 
 The prerequisite is that you are willing to release the data under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
