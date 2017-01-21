@@ -1,8 +1,8 @@
-# EFO-LCI: European Life Cycle Inventory of Forestry European Forestry Operations Life Cycle Inventory
+# EFO-LCI: European Forestry Operations Life Cycle Inventory
 
 ## About
 
-The European Life Cycle Inventory of Forestry European Forestry Operations Life Cycle Inventory (EFO-LCI) contains life cycle inventory (LCI) data on the forest management practices of 29 countries within the European subcontinent based on a questionnaire filled by silvicultural experts. We first classified European forest on the basis of what we called "forest unit" (the combination of silvicultural practices and tree species) and, for each Forest Unit (FU) we constructed a LCI.
+The European Forestry Operations Life Cycle Inventory (EFO-LCI) contains life cycle inventory (LCI) data on the forest management practices of 29 countries within the European subcontinent based on a questionnaire filled by silvicultural experts. We first classified European forest on the basis of what we called "forest unit" (the combination of silvicultural practices and tree species) and, for each Forest Unit (FU) we constructed a LCI.
 
 ### Methodology
 
