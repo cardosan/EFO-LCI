@@ -18,7 +18,7 @@ At time of publication, the EFO-LCI contained 235 FUs described in 29 different 
 
 ## HOW TO CITE
 
-......
+Cardellini, G., Valada, T., Cornillier, C., Vial, E., Dragoi, M., Goudiaby, V., Mues, V., Lasserre, B., Gruchala, A., Rørstad, P.K. and Neumann, M., 2018. EFO-LCI: A New Life Cycle Inventory Database of Forestry Operations in Europe. Environmental management, 61(6), pp.1031-1047.
 
 ## Using EFO-LCI
 
